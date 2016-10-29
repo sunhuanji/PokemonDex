@@ -1,5 +1,5 @@
 # PokemonDex
-An App to search and check information of pokemons
+An App to search and check detail information of pokemons
 ## Libraries
   - SwiftyJSON
   - Alamofire
